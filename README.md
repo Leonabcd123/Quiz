@@ -15,34 +15,34 @@ This C++ program is a simple multiple-choice quiz designed to test your knowledg
 The quiz contains the following questions with 4 multiple-choice answers:
 1. **What does the 'std::cout' statement do in C++?**
 
-A) It stores data in a file.
-B) It prints data to the standard output (console).
-C) It performs mathematical operations.
-D) It scans input from the user.
+- A) It stores data in a file.
+- B) It prints data to the standard output (console).
+- C) It performs mathematical operations.
+- D) It scans input from the user.
 2. **What is the default value of an uninitialized int in C++?**
 
-A) 0
-B) Undefined (it could be any random value).
-C) NULL
-D) -1
+- A) 0
+- B) Undefined (it could be any random value).
+- C) NULL
+- D) -1
 3. **Which of the following is used to create a constant in C++?**
 
-A) const
-B) constant
-C) final
-D) fixed
+- A) const
+- B) constant
+- C) final
+- D) fixed
 4. **In C++, what does '#include' do?**
 
-A) It includes header files into the program.
-B) It executes a code block.
-C) It defines a constant.
-D) It imports a function from a library.
+- A) It includes header files into the program.
+- B) It executes a code block.
+- C) It defines a constant.
+- D) It imports a function from a library.
 5. **What is the size of an int in most 64-bit systems?**
 
-A) 2 bytes
-B) 4 bytes
-C) 8 bytes
-D) 16 bytes
+- A) 2 bytes
+- B) 4 bytes
+- C) 8 bytes
+- D) 16 bytes
 ## Input Validation
 The program prompts the user to enter one of the valid answer options (A/B/C/D) for each question. If the user enters an invalid input (anything other than A, B, C, or D), the program will ask them to try again until a valid input is entered.
 
